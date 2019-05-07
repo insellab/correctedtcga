@@ -15,11 +15,6 @@ layout: default
 **Contributing Author**: *Kevin Moyung*, Undergraduate Researcher, Department of Biology at UC San Diego  
 kmoyung(at)ucsd.edu
 
-**Contributing Author**: *Ross Corriden Ph.D.*, Project Scientist, Department of Pharmacology at UC San Diego  
-(858) 534-2298; rcorriden(at)ucsd.edu
-
-**Contributing Author**: *Hannah Carter Ph.D.*, Assistant Professor, Department of Medicine at UC San Diego  
-(858) 822-4706; hkcarter(at)ucsd.edu
 
 
 
