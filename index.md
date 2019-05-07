@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-1)Welcome to the Insel Lab GPCRs in Cancer Resource
+# [](#header-1)Batch Effects Correction of TCGA Data Using PVCA
 
 * * *
 
