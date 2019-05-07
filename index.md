@@ -13,7 +13,7 @@ layout: default
 
 * * *
 
-This project aims to apply the [**Principal Variance Components Analysis**](https://www.niehs.nih.gov/research/resources/software/biostatistics/pvca/index.cfm) technique to identify batch effects present in gene expression data from [**The Cancer Genome Atlas (TCGA)**](https://cancergenome.nih.gov/) and correct for the factors that account for the highest proportion of variability using [**Limma**](https://bioconductor.org/packages/release/bioc/html/limma.html).
+This project aims to apply the [**Principal Variance Components Analysis**](https://www.niehs.nih.gov/research/resources/software/biostatistics/pvca/index.cfm) technique to identify batch effects present in gene expression data from [**The Cancer Genome Atlas (TCGA)**](https://cancergenome.nih.gov/) and correct for the factors that account for the greatest proportion of variability using [**Limma**](https://bioconductor.org/packages/release/bioc/html/limma.html).
 
 *If using data generated as part of this study, in addition to our paper, please cite the following soruces from which primary data were obtained:*
 
