@@ -8,6 +8,12 @@ layout: default
 
 * * *
 
+## Input Files
+
+*INSERT THE SCREENSHOTS OF THE BATCH EFFECTS FILE*
+
+*INSERT THE SCREENSHOTS OF THE CPM FILE*
+
 ## R Libraries 
 
 The following libraries are used in this project:
