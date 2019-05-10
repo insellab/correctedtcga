@@ -6,8 +6,6 @@ layout: default
 
 *INSERT WORFKLOW IMAGE(S) HERE*
 
-* * *
-
 ## Input Files
 
 *INSERT THE SCREENSHOTS OF THE BATCH EFFECTS FILE*
