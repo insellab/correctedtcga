@@ -12,8 +12,8 @@ layout: default
 
 The following libraries are used in this project:
 
-* **PVCA** ![https://www.bioconductor.org/packages/release/bioc/html/pvca.html](https://www.bioconductor.org/packages/release/bioc/html/pvca.html)
-* **Limma** ![https://www.bioconductor.org/packages/release/bioc/html/limma.html](https://www.bioconductor.org/packages/release/bioc/html/limma.html)
+* **PVCA** [https://www.bioconductor.org/packages/release/bioc/html/pvca.html](https://www.bioconductor.org/packages/release/bioc/html/pvca.html)
+* **Limma** [https://www.bioconductor.org/packages/release/bioc/html/limma.html](https://www.bioconductor.org/packages/release/bioc/html/limma.html)
 
 
 [back](./)
